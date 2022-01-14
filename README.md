@@ -19,5 +19,4 @@ The goal is to get familiar with JavaSript syntax in the scope of my training at
 
 Run the .js file with Node.js or other JavaScript runtime.
 
-I got **Ragoke**!   
-Get yours!
+I got **Ragoke**!
